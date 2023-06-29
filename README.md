@@ -14,4 +14,8 @@ Skrypt umożliwia wyświetlanie animowanego paska "BREAKING NEWS" na ekranie. Sk
 ## Informacje dodatkowe
 Ten skrypt został stworzony języku LUA. Możesz dostosować go według swoich potrzeb, np. zmieniając komendę, którą można użyć do rozpoczęcia testu.
 
+## Podgląd
+https://github.com/baeowsky/weazelnews-breakingnews/assets/85345064/3ff4f446-2cca-4fe0-9a17-77cc20b51d57
+
+
 **Autor:** bae
