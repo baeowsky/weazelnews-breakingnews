@@ -9,7 +9,7 @@ This script allows for the display of an animated "BREAKING NEWS" bar on the scr
 
 ## Instructions:
 1. Place the script in the appropriate folder on your server (e.g., `/resources/breakingnews`).
-2. Add the entry `start breakingnews` to the server.cfg file.
+2. Add the entry `start breakingnews` to the `server.cfg` file.
 
 ## Additional Information:
 This script was created in the LUA language. You can customize it to suit your needs, such as changing the command used to initiate the test.
