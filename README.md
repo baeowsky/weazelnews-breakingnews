@@ -7,7 +7,7 @@ This script allows for the display of an animated "BREAKING NEWS" bar on the scr
 - The `/breakingnews [text]` command enables players to display the "BREAKING NEWS" bar with their own text.
 - The `/breakingnews` command allows players to turn off the "BREAKING NEWS" bar on demand. Simply enter no content after the command.
 
-## Instrukcje:
+## Instructions:
 1. Place the script in the appropriate folder on your server (e.g., `/resources/breakingnews`).
 2. Add the entry `start breakingnews` to the server.cfg file.
 
